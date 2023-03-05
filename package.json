@@ -1,0 +1,25 @@
+{
+  "name": "uniswap_tutorial",
+  "version": "1.0.0",
+  "description": "uniswap tutorial based on eat the blocks video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebidelamata/uniswap_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebidelamata/uniswap_tutorial/issues"
+  },
+  "homepage": "https://github.com/sebidelamata/uniswap_tutorial#readme",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.0.8"
+  }
+}
